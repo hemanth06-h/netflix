@@ -5,7 +5,7 @@ body {
 
 header {
     background-color: #141414;
-    color: white;
+    color: red;
     padding: 10px;
     text-align: center;
 }
@@ -31,7 +31,7 @@ nav ul li a {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: blue;
 }
 
 .hero-content {
